@@ -15,6 +15,7 @@ class Main{
         System.out.println("1. Admin");
         System.out.println("2. Customer");
         System.out.println("3. Exit");
+        System.out.println("Barath");
 
         System.out.print("Choose: ");
         int ch = sc.nextInt();
